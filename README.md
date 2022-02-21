@@ -51,7 +51,7 @@ O documento "main.js" possui as seguintes instruções:
 
 # Link
 A hospedagem foi feita utilizando o GitHub, que oferece serviço de hospedagem de sites.
-- [URL do Site]()
+- [URL do Site](https://epfolletto.github.io/validaCadastro/)
 
 # Tecnologias
 <div>
